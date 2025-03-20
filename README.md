@@ -128,7 +128,7 @@ This repository contains well-structured Java programs, projects, and exercises 
 ## 🚀 How to Use
 📥 Clone the repository:
 ```bash
-git clone https://github.com/your-username/Java-Learning-Repo.git
+git clone https://github.com/Abhishekh1516techboy/Java.git
 ```
 🛠 Open the project in **IntelliJ IDEA**, **VS Code**, or **Eclipse**.  
 ▶ Run and experiment with the code!
