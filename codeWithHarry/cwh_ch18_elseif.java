@@ -11,7 +11,7 @@ public class cwh_ch18_elseif{
             System.out.println("you are semi-experienced!");
         }else{
             System.out.println("You are not experienced!");
-        }  
-        sc.close();    
+        }
+        sc.close();
     }
 }
